@@ -7,3 +7,5 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
+"5".TOPLEVEL_BINDING
+
